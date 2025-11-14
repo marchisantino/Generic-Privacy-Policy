@@ -55,9 +55,9 @@ Fapn't is free forever. No ads, no in-app purchases, no monetization, and we don
 
 ### 7. Source Code Availability
 
-We value transparency. The core source code for Fapn't (limited to the `pubspec.yaml` and Dart files, such as the Flutter widgets and pages) is publicly available on GitHub: [HEREPUTTHELINKDUMMY].
+We value transparency. The core source code for Fapn't (limited to the `pubspec.yaml` and Dart files, such as the Flutter widgets and pages) will be publicly available on GitHub in the future.
 
-Note: The full project, including files like Gradle or XML configurations, is not public due to sensitive informations like developer keys.
+Note: The full project, including files like Gradle or XML configurations, will not be public due to sensitive informations like developer keys.
 
 <br>
 
@@ -79,4 +79,4 @@ If you have any questions, requests, or concerns, feel free to contact us at app
 
 <br>
 
-> Last Updated: 27/12/2024
+> Last Updated: 14/11/2025
